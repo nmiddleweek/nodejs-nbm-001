@@ -1,3 +1,11 @@
-1.  Download nodeJS source code from http://nodejs.org/download/
+1.  Download nodeJS source code from http://nodejs.org/download/ - This will end up in your ~/Downloads folder.
 
-2. 
+2. Open a terminal and goto ~/Downloads.
+
+3. Run `ll` and you you should see the node*.tar.gz file - This is the compressed nodeJS source code, uncompiled.
+
+3. `tar -zxf node*.tar.gz` to unpack and it'll create a folder.
+
+4. `cd` into that folder.
+
+5. 
